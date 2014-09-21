@@ -1,0 +1,12 @@
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\bin\Debug\katalogRentalCD.exe
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\bin\Debug\katalogRentalCD.pdb
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\katalogRentalCD.MainForm.resources
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\katalogRentalCD.csproj.GenerateResource.Cache
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\katalogRentalCD.exe
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\katalogRentalCD.pdb
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\katalogRentalCD.TampilData.resources
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\katalogRentalCD.FormEdit.resources
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\katalogRentalCD.FormSewa.resources
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\katalogRentalCD.FormEditTipe.resources
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\katalogRentalCD\obj\Debug\katalogRentalCD.FormEditPelanggan.resources
